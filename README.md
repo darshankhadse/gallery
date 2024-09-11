@@ -1,6 +1,3 @@
-# getx_architecture
-
-A new Flutter project.
 # Image Gallery App
 
 ## Overview
